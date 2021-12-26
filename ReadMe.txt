@@ -19,4 +19,4 @@ l'entraînement et le déploiement des modèles.
 -le dossier où nous avons fait des démonstrations.
 
 
-Mohamed-ZERAI-GLSI3C
+Mohamed-ZERAI
